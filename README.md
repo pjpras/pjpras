@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**pjpras/pjpras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Certainly! Here's a profile README for your GitHub that highlights your skills and interests:
 
-Here are some ideas to get you started:
+Hi there! 👋 I'm Prashant Joshi
+I'm a passionate Full Stack Developer and a 3rd year B.Tech. student. I love creating web applications and learning about new technologies. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 About Me
+Name: Prashant Joshi
+Education: 3rd year B.Tech. student
+Passion: Full Stack Development
+Interests: Web Development, Backend Development, Database Management, Open Source
+🛠️ Tech Stack
+Frontend: HTML, CSS, JavaScript, React, Angular
+Backend: Node.js, Express.js, Python, Django
+Databases: MongoDB, MySQL, PostgreSQL
+Version Control: Git, GitHub
+Other Tools: Docker, Kubernetes, AWS, Heroku
+🌱 Currently Learning
+Advanced React Patterns
+Microservices Architecture
+Cloud Computing with AWS
+🔭 Projects
+Project Name 1: Short description of the project.
+Project Name 2: Short description of the project.
+Project Name 3: Short description of the project.
+📫 How to Reach Me
+Email: your-email@example.com
+LinkedIn: linkedin.com/in/yourprofile
+Twitter: @yourtwitterhandle
+💬 Let's Connect
+Feel free to reach out if you want to collaborate on a project, need help with a bug, or just want to chat about technology!
+
