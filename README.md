@@ -5,7 +5,7 @@ I'm a passionate Full Stack Developer and a 3rd year B.Tech. student. I love cre
 ## 🌟 About Me
 
 - **Name:** Prashant Joshi
-- **Education:** 3rd year B.Tech. student
+- **Education:** 4th year B.Tech. student
 - **Passion:** Full Stack Development
 - **Interests:** Web Development, Backend Development, Database Management, Open Source
 
@@ -25,15 +25,14 @@ I'm a passionate Full Stack Developer and a 3rd year B.Tech. student. I love cre
 
 ## 🔭 Projects
 
-- **[Project Name 1](#):** Short description of the project.
-- **[Project Name 2](#):** Short description of the project.
-- **[Project Name 3](#):** Short description of the project.
+- **[FinSight- Track Finances](#):** Short description of the project.
+- **[Automatic Attendance System](#):** Short description of the project.
+- **[BlogPost](#):** Short description of the project.
 
 ## 📫 How to Reach Me
 
-- **Email:** [prashantjoshi430.com](mailto:your-email@example.com)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Twitter:** [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- **Email:** [prashantjoshi3011@gmail.com](mailto:prashantjoshi3011@gmail.com)
+- **LinkedIn:** [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/prashant-joshi-pj/)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/prashant-joshi-pj/))
 
 ## 💬 Let's Connect
 
